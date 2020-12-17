@@ -1,6 +1,6 @@
 # Portafolio NLP
 ![Image](https://static.wixstatic.com/media/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.png/v1/fill/w_1140,h_225,al_c,q_85,usm_0.66_1.00_0.01/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.webp)
-### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos, estoy terminando una especialización en Analítica estratégica de datos y en este portafolio encontrarás mis trabajos de procesamiento de leguaje natural (NLP), y descubrir todo lo que se puede hacer analizando textos :thumbsup:
+### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, mi marca de consultoría es Market In-Sight, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos, estoy terminando una especialización en Analítica estratégica de datos y en este portafolio encontrarás mis trabajos de procesamiento de leguaje natural (NLP), y descubrir todo lo que se puede hacer analizando textos :thumbsup:
 
 ## Proyectos
 
@@ -51,7 +51,7 @@
   - Para entender la caída en post link clics de una cuenta de radio de Facebook en julio vs junio, luego de que Facebook implementara un algortimo para castigar el clickbait, se analizó el nivel de subjetividad de las publicaciones, y también se aplicó LDA con pyLDAvis, y con GSDMM, obteniendo mejores resultados con éste último al ser el adecuado para textos cortos y se identificó que la caída en los resultados se debe al contenido de los posts.
   
   
-#### Si quieres conocer más sobre mi trabajo:
+#### Si quieres conocer más sobre mi trabajo puedes visitar:
 * [LinkedIn](https://www.linkedin.com/in/xiomy-jineth-diaz-morales-2201a832/)
 * [GitHub](https://github.com/XiomyDiazAnalyst)
   
