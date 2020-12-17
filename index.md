@@ -1,6 +1,6 @@
 # Portafolio NLP
 ![Image](https://static.wixstatic.com/media/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.png/v1/fill/w_1140,h_225,al_c,q_85,usm_0.66_1.00_0.01/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.webp)
-### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos, estoy terminando una especialización en Analítica estratégica de datos y en este portafolio encontrarás mis trabajos de procesamiento de leguaje natural (NLP), y descubrir todo lo que se puede hacer analizando textos :+1:
+### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos, estoy terminando una especialización en Analítica estratégica de datos y en este portafolio encontrarás mis trabajos de procesamiento de leguaje natural (NLP), y descubrir todo lo que se puede hacer analizando textos :thumbsup:
 
 ## Proyectos
 
