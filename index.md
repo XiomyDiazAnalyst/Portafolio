@@ -1,6 +1,7 @@
 # Portafolio NLP
 ![Image](https://static.wixstatic.com/media/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.png/v1/fill/w_1140,h_225,al_c,q_85,usm_0.66_1.00_0.01/ba3b3e_d44974d03946f5bfaba5b6ad31d786ce.webp)
-### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, mi marca de consultoría es Market In-Sight, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos, en este portafolio encontrarás mis trabajos de procesamiento de leguaje natural (NLP), realizados durante mi especialización en Analítica estratégica de datos, visita cada link y podrás descubrir todo lo que se puede hacer con el análisis de textos :thumbsup:
+### Mi nombre es Xiomy Díaz soy profesional en Mercadeo y Publicidad, mi marca de consultoría es Market In-Sight, me apasionan los datos y el entendimiento de los clientes y tendencias a través de los mismos.
+### En este portafolio encontrarás mis trabajos de procesamiento de lenguaje natural (NLP), realizados durante mi especialización en Analítica estratégica de datos, visita cada link y podrás descubrir todo lo que se puede hacer con el análisis de textos.
 
 ## Proyectos
 
